@@ -1,0 +1,5 @@
+tqdm
+Ipython
+opencv-python
+gym
+gym[atari]
